@@ -39,7 +39,7 @@ export default function Rodape() {
                     <div className="flex flex-col md:flex-row items-center gap-1.5 text-sm text-zinc-500">
                         <div className="flex gap-1.5">
                             <span>Feito com</span>
-                            <span>❤️</span>
+                            <span>❤️ Por <a href="https://www.instagram.com/sxbrina.tech" target="_blank">Sabrina Marques</a></span>
                             <span>em {new Date().getFullYear()}</span>
                         </div>
                         <span className="hidden md:inline-block">-</span>
